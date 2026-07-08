@@ -26,4 +26,3 @@ Em desenvolvimento
 ## Desenvolvedores
 
 - Raquel Bezerra
-- Anderson 
